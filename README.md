@@ -1,3 +1,5 @@
+[![Build & Test](https://github.com/KieranHsieh/from_http/actions/workflows/ci.yml/badge.svg)](https://github.com/KieranHsieh/from_http/actions/workflows/ci.yml)
+
 # What is this?
 
 This is a proof of concept rust proc-macro library that allows you to embed the response from an HTTP GET request into a string at compile time.
